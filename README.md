@@ -4,7 +4,7 @@
 
 <h3 align="center"> 
     <img src="https://github.com/mudiger/mudiger/blob/main/public/images/hello.gif" width="21"> 
-    Hi, I'm <b>SAARTHAK MUDIGERE GIRISH!</b> Software Developer 🚀
+    Hi, I'm <b>MOHITHA SURESH SINGH!</b> Data Analyst 📊
 </h3>
 
 <p align="center">
