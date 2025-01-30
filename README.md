@@ -23,7 +23,6 @@
         <img alt="Gmail" src="https://img.shields.io/badge/-singhmohitha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
     </a> 
     &nbsp;
-    <a href="https://leetcode.com/u/saarthakmudigere/"><img alt = "Leetcode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ## <picture><img src = "https://github.com/mudiger/mudiger/blob/main/public/images/about_me.gif?raw=true" width = 50px></picture> About me
