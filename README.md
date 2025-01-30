@@ -9,18 +9,18 @@
 
 <p align="center">
     <!-- Profile Views -->
-    <a href="https://komarev.com/ghpvc/?username=mudiger">
-        <img src="https://komarev.com/ghpvc/?username=mudiger&label=%20Profile%20Views%20👀%20&color=0e75b6&style=flat" alt="Profile Views 👀" />
+    <a href="https://komarev.com/ghpvc/?username=mohithasingh">
+        <img src="https://komarev.com/ghpvc/?username=mohithasingh&label=%20Profile%20Views%20👀%20&color=0e75b6&style=flat" alt="Profile Views 👀" />
     </a>
 </p>
 <p align="center">
     &emsp;
-    <a href="https://www.linkedin.com/in/mudigere/" target="_blank">
+    <a href="https://www.linkedin.com/in/mohithasingh/" target="_blank">
          <img alt="LinkedIn" width="20px" src="https://github.com/mudiger/mudiger/blob/main/public/images/Linkedin%20Logo.png"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
     </a> 
     &nbsp;
-    <a href="mailto:saarthakmudigere@gmail.com" target="_blank">
-        <img alt="Gmail" src="https://img.shields.io/badge/-saarthakmudigere@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
+    <a href="mailto:singhmohitha@gmail.com.com" target="_blank">
+        <img alt="Gmail" src="https://img.shields.io/badge/-singhmohitha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
     </a> 
     &nbsp;
     <a href="https://leetcode.com/u/saarthakmudigere/"><img alt = "Leetcode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
