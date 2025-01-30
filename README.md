@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center"> 
-    <img src="https://github.com/mudiger/mudiger/blob/main/public/images/hello.gif" width="21"> 
+    <img src="https://github.com/mohithasingh/mohithasingh/blob/main/hello.gif" width="21"> 
     Hi, I'm <b>MOHITHA SURESH SINGH!</b> Data Analyst 📊
 </h3>
 
