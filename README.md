@@ -72,5 +72,5 @@ def introduce_myself():
 
 </br>
 <h4 align="center"> 
-🌟 If you found this helpful, consider giving my repositories a ⭐ and following me for more insights, updates, and cool projects!🌟
+🌟 If you found this helpful, consider giving my repositories a star and following me for more insights, updates, and cool projects!🌟
 </h4>
