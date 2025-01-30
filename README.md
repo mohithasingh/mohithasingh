@@ -25,7 +25,7 @@
     &nbsp;
 </p>
 
-## <picture><img src = "https://github.com/mudiger/mudiger/blob/main/public/images/about_me.gif?raw=true" width = 50px></picture> About me
+## About me
 
 <pre>
 def introduce_myself():
